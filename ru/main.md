@@ -2,3 +2,4 @@
 
 * [Начало работы](begin.md)
 * [Установка](install.md)
+* [Настройка](configure/main.md)
