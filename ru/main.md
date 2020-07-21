@@ -3,4 +3,5 @@
 * [Начало работы](begin.md)
 * [Установка](install.md)
 * [Структура папок](folders.md)
-* [Настройка](configure/main.md)
+* [Конфиги](configure/main.md)
+* [База данных и миграции](configure/db.md)
