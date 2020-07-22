@@ -8,3 +8,4 @@
 * [Замена Router'a](router.md)
 * [Замена Container'а](container.md)
 
+[Каркас, в котором изменены почти все компоненты](https://github.com/Furious-PHP/demo-changed)
