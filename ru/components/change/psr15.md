@@ -15,7 +15,7 @@
 Стало
 
     ...
-    "laminas/laminas-stratigility": "^3.2"
+    "laminas/laminas-stratigility": "^3.2",
     ...
 
 2 Создаем LaminasPipelineAdapter

@@ -8,17 +8,13 @@
 Было
 
     ...
-    "furious/container": "1.0.2",
-    "laminas/laminas-diactoros": "^2.3",
     "furious/http-runner": "0.1.4",
     ...
 
 Стало
 
     ...
-    "furious/container": "1.0.2",
-    "laminas/laminas-diactoros": "^2.3",
-    "laminas/laminas-httphandlerrunner": "^1.2"
+    "laminas/laminas-httphandlerrunner": "^1.2",
     ...
     
 2 Меняем Runner в public/index.php

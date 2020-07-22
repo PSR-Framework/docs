@@ -9,17 +9,13 @@
 Было
 
     ...
-    "psr/container": "^1.0",
     "furious/psr7": "^1.3",
-    "furious/router": "1.0.*",
     ...
     
 Стало
     
     ...
-    "psr/container": "^1.0",
-    "laminas/laminas-diactoros": "^2.3"
-    "furious/router": "1.0.*",
+    "laminas/laminas-diactoros": "^2.3",
     ...
 
 2 Меняем ServerRequestFactory в public/index.php
