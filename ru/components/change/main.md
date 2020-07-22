@@ -4,3 +4,4 @@
 
 * [Замена PSR-7 компонента](psr7.md)
 * [Замена Http Runner](runner.md)
+* [Замена Container'а](container.md)
